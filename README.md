@@ -10,7 +10,7 @@ Viewable at www.ohdsi.org/style-guide
 
 
 ## Licensing 
-**Style Guide Boilerplate Bootstrap Edition** is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+Licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 
 ## Additional Resources for Style Guide Design
