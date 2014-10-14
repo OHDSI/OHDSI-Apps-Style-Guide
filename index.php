@@ -1,5 +1,5 @@
 <?php
-	$project_name = "Project Name";
+	$project_name = "OHDSI";
   // Build out URI to reload from form dropdown
   // Need full url for this to work in Opera Mini
   $pageURL = (@$_SERVER["HTTPS"] == "on") ? "https://" : "http://";
