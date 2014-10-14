@@ -4,8 +4,6 @@ Style Guide for OHDSI Applications
 
 An evolving style guide for OHDSI tools, based on Monolinea labs [Boostrap Style Guide](https://github.com/kemie/Style-Guide-Boilerplate-Bootstrap-Edition).
 
-[Default Style Guide Demo](http://www.monolinea.com/projects/styleguide)
-
 ![Screenshot](http://www.monolinea.com/wp-content/uploads/Style_Guide_Boilerplate.png)
 
 Viewable at www.ohdsi.org/style-guide
@@ -15,7 +13,7 @@ Viewable at www.ohdsi.org/style-guide
 **Style Guide Boilerplate Bootstrap Edition** is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 
-## Suggested Resources for Style Guide Design
+## Additional Resources for Style Guide Design
  
 [Front-end Style Guides](http://24ways.org/2011/front-end-style-guides/)
 
