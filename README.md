@@ -1,16 +1,10 @@
-![Header Image](http://www.monolinea.com/wp-content/uploads/styleguide@2x-845x250@2x.png)
-Style-Guide-Boilerplate Bootstrap Edition
+![Header Image](http://ec2-54-85-33-71.compute-1.amazonaws.com/wp-content/uploads/2014/07/cropped-OHDSI-logo-with-text-horizontal-colored-white-background.png)
+Style Guide for OHDSI Application
 ==============================
 
-A starting point for crafting living style guides for Bootstrap-based projects.
+An evolving style guide for OHDSI tools, based on Monolinea labs [Boostrap Style Guide](http://www.monolinea.com/labs/bootstrap-stye-guide-boilerplate/‎).
 
-Based on Brett Jankord's [Style Guide Boilerplate](http://brettjankord.com/projects/style-guide-boilerplate/)
-
-[Read More about the project](http://www.monolinea.com/labs/bootstrap-stye-guide-boilerplate/‎)
-
-[Demo](http://www.monolinea.com/projects/styleguide/)
-
-*Note: Sample patterns have been included in the demo. Your site will have it's own unique patterns.*
+[Default Style Guide Demo](http://www.monolinea.com/projects/styleguide/)
 
 ![Screenshot](http://www.monolinea.com/wp-content/uploads/Style_Guide_Boilerplate.png)
 
@@ -19,11 +13,6 @@ Based on Brett Jankord's [Style Guide Boilerplate](http://brettjankord.com/proje
 ### Download the Style Guide Boilerplate
 You can clone, fork, or download the repo from GitHub.
 Once you have the files for **Style Guide Boilerplate**, you'll create a directory on your site for them.
-
-### Set up your project name
-Open the `index.php` file, and look for line 2, where it says:
-`$project_name = "Project Name";`
-Put your own project name between the quotation marks
 
 ### Hook up your own CSS into the style guide
 In the `<head>` of **Style Guide Boilerplate** are custom styles for the boilerplate itself. These have all been prefixed with sg- so they hopefully shouldn't cause any conflicts with your website's own styles.
@@ -65,15 +54,8 @@ Save the file as `pattern-name.html` into the `markup/patterns` directory inside
 You should now be able to see the new patterns at `yoursite.com/style-guide/`
 
 
-
-
 ## Licensing 
 **Style Guide Boilerplate Bootstrap Edition** is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-
-##Questions? Comments?
-The guide was forked and is maintained by [Kemie Guaida] (http://www.monolinea.com/about). It is a work in progress. There's lots of things that need to be fixed and cleaned up, but it is  good enough in it's present state and can hopefully be useful.
-
-If you have questions or suggestions, you can open an issue here at github, or ping me via twitter[@kemie](http://twitter.com/kemie)
 
 
 ## Additional Resources
